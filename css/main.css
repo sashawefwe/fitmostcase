@@ -344,6 +344,14 @@ body.dark-mode .page-title {
   color: #8F76D2; /* фиолетовый */
 }
 
+.custom-heading {
+  font-family: 'Inter', sans-serif;
+  font-size: 28px;
+  font-weight: 600;
+  color: #282828;
+  line-height: 1.2;
+}
+
 /* Мобильная адаптация */
 @media (max-width: 600px) {
   .page-title {
@@ -362,4 +370,5 @@ body.dark-mode .page-title {
   .page-image {
     max-width: 90%;  /* на мобильных почти на весь экран */
   }
+
 }
