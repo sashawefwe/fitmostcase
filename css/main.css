@@ -270,7 +270,7 @@ body.dark-mode .page-title {
   flex-direction: column;
   justify-content: flex-start;
   padding-top: 40px;  /* отступ До и После от верхнего края картинок */
-  max-width: 320px;
+  max-width: 400px;
 }
 
 .task-label {
@@ -372,3 +372,4 @@ body.dark-mode .page-title {
   }
 
 }
+
